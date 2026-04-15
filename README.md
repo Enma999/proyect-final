@@ -1,4 +1,4 @@
-# 🎓 Sistema de Gestion de Estudiantes
+# 🎓 Sistema de Gestion Academico Universitario
 
 ## 📌 Descripción
 
